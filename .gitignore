@@ -1,0 +1,10 @@
+# Terraform
+.terraform/
+.terraform.lock.hcl
+*.tfvars
+
+# OS
+.DS_Store
+
+# Logs
+*.log
